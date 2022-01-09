@@ -11,7 +11,7 @@ Tambien hay que crear un ssh key siguendo [estas instrucciones](https://git-scm.
 ## Descargar repo:
 
 ```
-git clone https://github.com/elgatovielma/tfm_network_anomalies.git
+git clone git@github.com:elgatovielma/tfm_network_anomalies.git
 ```
 
 Al descargar el codigo, se tendrá una nueva carpeta en la cual estará el proyecto y luego se debe entrar en la carpeta.
